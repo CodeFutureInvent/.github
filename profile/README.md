@@ -5,4 +5,4 @@
 ## Index
 
 ### S
-[shrunkenpy](https://github.com/CodeFutureInvent/shrunkenpy)
+[shrunkenpy](https://github.com/CodeFutureInvent/shrunkenpy), _image shrinking program_
